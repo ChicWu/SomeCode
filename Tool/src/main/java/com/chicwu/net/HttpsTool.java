@@ -1,4 +1,4 @@
-package com.chicwu.net;
+package java.com.chicwu.net;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
