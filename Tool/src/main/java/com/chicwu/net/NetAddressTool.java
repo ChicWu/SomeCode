@@ -1,4 +1,4 @@
-package java.com.chicwu.net;
+package com.chicwu.net;
 
 import java.net.Inet4Address;
 import java.net.InetAddress;

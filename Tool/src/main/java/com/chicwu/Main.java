@@ -1,4 +1,4 @@
-package java.com.chicwu;
+package com.chicwu;
 
 public class Main {
 }
